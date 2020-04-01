@@ -6,10 +6,10 @@ import sys
 import os
 
  # 需要抓取的url
-url = "https://www.taobao.com"
+url = "https://movie.douban.com/subject/27619748/photos"
 
 # 图片保存路径
-targetPath = "taobao"
+targetPath = "douban"
  
 # 保存图片
 def saveImg(path):
